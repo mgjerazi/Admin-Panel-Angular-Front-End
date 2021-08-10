@@ -5,7 +5,7 @@ E-Commerce Application, provides below services for Admin & Customer CRUD operat
 Services :
 
 
-- Admin -
+- Admin 
 
 Adding products
 
@@ -16,7 +16,7 @@ Deleting products
 Manage Orders
 
 
-- Customer -
+- Customer 
 
 Registering into System
 
@@ -31,8 +31,7 @@ Updating/ Deleting the Product
 Placing the order
 
 
-Technologies :
-
+- Technologies :
 
 Java 16
 
@@ -43,6 +42,7 @@ Hibernate with JPA
 MySQL
 
 PostMan (For testing the web services)
+
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.9.
