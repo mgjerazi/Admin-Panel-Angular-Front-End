@@ -10,23 +10,38 @@ Services:
 Adding products
 
 Updating products
+
 Deleting products
+
 Manage Orders
 
+
 -Customer-
+
 Registering into System
+
 Login into Website
+
 Updating Address
+
 Adding product to Cart
+
 Updating/ Deleting the Product
+
 Placing the order
+
 
 Technologies:
 
+
 Java 16
+
 Spring Boot
+
 Hibernate with JPA
+
 MySQL
+
 PostMan (For testing the web services)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.9.
