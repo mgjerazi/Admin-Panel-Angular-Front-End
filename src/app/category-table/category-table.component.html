@@ -1,0 +1,31 @@
+<div class="card">
+  <div class="card-body">
+    <div class="row mb-2">
+      <div class="col-6">
+        <h5 class="card-title">Categories</h5>
+      </div>
+      <div class="col-6 text-end">
+        <a class="btn btn-primary" routerLink="/category/manage">Add Category</a>
+      </div>
+    </div>
+    <table class="table table-bordered">
+      <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Name</th>
+        <th scope="col">Actions</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr *ngFor="let item of category">
+        <th scope="row">{{item.id}}</th>
+        <td>{{item.name}}</td>
+        <td>
+          <a class="me-3" [routerLink]="['/category/manage', item.id]">Edit</a>
+          <a (click)="onDeleteCategory(item.id)"class="btn-danger">Delete</a>
+        </td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
