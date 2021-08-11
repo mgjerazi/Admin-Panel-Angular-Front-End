@@ -1,11 +1,13 @@
 # AngularJS
 
-E-Commerce Application, provides below services for Admin & Customer CRUD operations 
+E-Commerce Application
+
+Provides below services for Admin CRUD operations 
 
 Services :
 
 
-- Admin
+- Admin Panel
 
 Adding Products/Categories
 
@@ -14,19 +16,6 @@ Updating Products
 Deleting Products
 
 Manage Orders
-
-
-- Customer 
-
-Registering into System
-
-Login into Website
-
-Adding product to Cart
-
-Updating/ Deleting the Product
-
-Placing the order
 
 
 - Technologies
