@@ -34,6 +34,13 @@ AngularJS
 
 Postman (For testing the web services)
 
+Application screenshots below 
+
+- Admin Panel
+
+Categories
+
+Add Products to the website
 
 
 
