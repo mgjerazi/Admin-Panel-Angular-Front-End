@@ -1,17 +1,17 @@
-# SpringBootAngular
+# AngularJS
 
 E-Commerce Application, provides below services for Admin & Customer CRUD operations 
 
 Services :
 
 
-- Admin 
+- Admin
 
-Adding products
+Adding Products/Categories
 
-Updating products
+Updating Products
 
-Deleting products
+Deleting Products
 
 Manage Orders
 
@@ -22,8 +22,6 @@ Registering into System
 
 Login into Website
 
-Updating Address
-
 Adding product to Cart
 
 Updating/ Deleting the Product
@@ -31,22 +29,26 @@ Updating/ Deleting the Product
 Placing the order
 
 
-- Technologies :
+- Technologies
 
 Java 16
 
 Spring Boot
 
+Thymeleaf
+
 Hibernate with JPA
 
-MySQL
+MySQL 
 
-PostMan (For testing the web services)
+AngularJS
+
+Postman (For testing the web services)
 
 
 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.9.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
 
 ## Development server
 
