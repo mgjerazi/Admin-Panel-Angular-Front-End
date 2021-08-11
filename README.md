@@ -40,9 +40,11 @@ Application screenshots below
 
 Categories
 
+![Categories](https://user-images.githubusercontent.com/74839767/129041520-aa387245-60e4-4e2c-8acf-7bc97da332a2.PNG)
+
 Add Products to the website
 
-
+![Add-Products](https://user-images.githubusercontent.com/74839767/129041582-16df20c3-df03-487e-909b-c862f35dc6fa.PNG)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
 
